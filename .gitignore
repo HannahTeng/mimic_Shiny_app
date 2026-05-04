@@ -1,0 +1,11 @@
+# Real MIMIC-IV data — PhysioNet DUA prohibits public sharing
+mimic_sepsis_30d_full_features_REAL.xlsx
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
